@@ -1,12 +1,17 @@
 # katla - custom edushit client for iOS
 this project was entirely vibe coded by Gemini 3.1 Pro.
-i don't plan releasing a ready app (.ipa), this is for compiling it yourself.
 this project was intended to rebuild Vulcanova but that app was built in Xarmin-Forms which is now EoL.
 ## known bugs
 - [ ] in overview the lessons aren't sorted by hour. (this will be fixed in the next update.)
 - [ ] auto-sync messages (this also will be fixed in the next update.)
 - [ ] fix duty
 - [ ] fix notifications pinging
+- [ ] attendace (fetches wrong data.)
+
+## coming in next release
+
+- All bug fixes.
+- Attendance summary
 
 ## todo
 
@@ -15,7 +20,7 @@ this project was intended to rebuild Vulcanova but that app was built in Xarmin-
 - [x] more ui customization
 - [x] receive messages
 - [ ] send messages (not tested)
-- [x] push notifications
+- [ ] push notifications
 - [x] detailed menus
 - [ ] attendance justification 
 
@@ -35,7 +40,7 @@ this project was intended to rebuild Vulcanova but that app was built in Xarmin-
 
 1. clone repo
 2. compile in xcode
-3. deploy on your device
+3. deploy on your device using AltStore, SideStore and etc.
 
 ## credits
 *[Vulcanova](https://github.com/Vulcanova/Vulcanova)
