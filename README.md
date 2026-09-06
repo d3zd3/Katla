@@ -1,4 +1,4 @@
-# katla - custom edushit client for iOS
+# katla - custom eduVulcan client for iOS
 this project was entirely vibe coded by Gemini 3.1 Pro.
 this project was intended to rebuild Vulcanova but that app was built in Xarmin-Forms which is now EoL.
 if you have any questions, ideas, changes then go to discussions page in github.
